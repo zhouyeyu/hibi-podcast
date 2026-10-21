@@ -5,14 +5,14 @@
     <link>https://zhouyeyu.com/hibi-podcast/en/</link>
     <description>Learn one useful Japanese expression through a bear conversation, with English explanations, practice gaps and a chance to answer.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:09:20 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:23:33 +0800</lastBuildDate>
     <generator>HIBI Podcast RSS</generator>
     <atom:link href="https://zhouyeyu.com/hibi-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>HIBI</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>no</itunes:block>
-    <itunes:image href="https://zhouyeyu.com/hibi-podcast/assets/cover-en-294d79214836.jpg" />
+    <itunes:image href="https://zhouyeyu.com/hibi-podcast/assets/cover-en-d10ce2e2ee0a.jpg" />
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
     </itunes:category>
@@ -21,7 +21,7 @@
       <itunes:email>yuzhouyeapp@163.com</itunes:email>
     </itunes:owner>
     <image>
-      <url>https://zhouyeyu.com/hibi-podcast/assets/cover-en-294d79214836.jpg</url>
+      <url>https://zhouyeyu.com/hibi-podcast/assets/cover-en-d10ce2e2ee0a.jpg</url>
       <title>Everyday Japanese with Two Bears</title>
       <link>https://zhouyeyu.com/hibi-podcast/en/</link>
     </image>
