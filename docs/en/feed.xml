@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Everyday Japanese with Two Bears</title>
+    <link>https://zhouyeyu.com/hibi-podcast/en/</link>
+    <description>Learn one useful Japanese expression through a bear conversation, with English explanations, practice gaps and a chance to answer.</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Oct 2026 20:09:20 +0800</lastBuildDate>
+    <generator>HIBI Podcast RSS</generator>
+    <atom:link href="https://zhouyeyu.com/hibi-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>HIBI</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://zhouyeyu.com/hibi-podcast/assets/cover-en-294d79214836.jpg" />
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning" />
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>HIBI</itunes:name>
+      <itunes:email>yuzhouyeapp@163.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://zhouyeyu.com/hibi-podcast/assets/cover-en-294d79214836.jpg</url>
+      <title>Everyday Japanese with Two Bears</title>
+      <link>https://zhouyeyu.com/hibi-podcast/en/</link>
+    </image>
+    <item>
+      <title>Choosing a rice ball: I think I’ll have this one</title>
+      <guid isPermaLink="false">urn:uuid:d0e29a31-9621-5a46-8e0b-4183c2446fb5</guid>
+      <link>https://zhouyeyu.com/hibi-podcast/en/episodes/06-convenience/</link>
+      <description>Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.</description>
+      <content:encoded>&lt;p&gt;Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhouyeyu.com/hibi-podcast/en/episodes/06-convenience/transcript.txt"&gt;Transcript / 文字稿&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;0:00 — Step into the scene&lt;/li&gt;&lt;li&gt;0:17 — Listen to the whole conversation&lt;/li&gt;&lt;li&gt;0:38 — Understand the lines and their tone&lt;/li&gt;&lt;li&gt;1:33 — One useful pattern&lt;/li&gt;&lt;li&gt;2:33 — Change one detail&lt;/li&gt;&lt;li&gt;3:21 — Listen, pause, and repeat&lt;/li&gt;&lt;li&gt;4:28 — Your turn to answer&lt;/li&gt;&lt;li&gt;5:03 — Listen again and take it with you&lt;/li&gt;&lt;/ol&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 17:11:32 +0800</pubDate>
+      <enclosure url="https://zhouyeyu.com/hibi-podcast/media/en/06-convenience-e78da30416570152.mp3" length="7794042" type="audio/mpeg" />
+      <itunes:duration>325</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Buying tickets: asking for two</title>
+      <guid isPermaLink="false">urn:uuid:962dba12-e1de-51ff-8ca2-94d5341f63d6</guid>
+      <link>https://zhouyeyu.com/hibi-podcast/en/episodes/05-tickets/</link>
+      <description>Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.</description>
+      <content:encoded>&lt;p&gt;Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhouyeyu.com/hibi-podcast/en/episodes/05-tickets/transcript.txt"&gt;Transcript / 文字稿&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;0:00 — Step into the scene&lt;/li&gt;&lt;li&gt;0:22 — Listen to the whole conversation&lt;/li&gt;&lt;li&gt;0:50 — Understand the lines and their tone&lt;/li&gt;&lt;li&gt;1:34 — One useful pattern&lt;/li&gt;&lt;li&gt;2:40 — Change one detail&lt;/li&gt;&lt;li&gt;3:06 — Listen, pause, and repeat&lt;/li&gt;&lt;li&gt;3:56 — Your turn to answer&lt;/li&gt;&lt;li&gt;4:42 — Listen again and take it with you&lt;/li&gt;&lt;/ol&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 17:11:32 +0800</pubDate>
+      <enclosure url="https://zhouyeyu.com/hibi-podcast/media/en/05-tickets-b075418680cc5b7e.mp3" length="7171366" type="audio/mpeg" />
+      <itunes:duration>299</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Finding the station together: let’s turn right</title>
+      <guid isPermaLink="false">urn:uuid:84ae30a2-6bc8-5e9a-b4f6-96b4c7c95334</guid>
+      <link>https://zhouyeyu.com/hibi-podcast/en/episodes/04-station/</link>
+      <description>Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.</description>
+      <content:encoded>&lt;p&gt;Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhouyeyu.com/hibi-podcast/en/episodes/04-station/transcript.txt"&gt;Transcript / 文字稿&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;0:00 — Step into the scene&lt;/li&gt;&lt;li&gt;0:18 — Listen to the whole conversation&lt;/li&gt;&lt;li&gt;0:44 — Understand the lines and their tone&lt;/li&gt;&lt;li&gt;1:31 — One useful pattern&lt;/li&gt;&lt;li&gt;2:28 — Change one detail&lt;/li&gt;&lt;li&gt;2:53 — Listen, pause, and repeat&lt;/li&gt;&lt;li&gt;3:42 — Your turn to answer&lt;/li&gt;&lt;li&gt;4:34 — Listen again and take it with you&lt;/li&gt;&lt;/ol&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 17:11:32 +0800</pubDate>
+      <enclosure url="https://zhouyeyu.com/hibi-podcast/media/en/04-station-f6c64c998422d9eb.mp3" length="6959992" type="audio/mpeg" />
+      <itunes:duration>290</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Outside the cafe: saying what you want to drink</title>
+      <guid isPermaLink="false">urn:uuid:8b70d308-a991-5dec-a7c7-106ce76d304e</guid>
+      <link>https://zhouyeyu.com/hibi-podcast/en/episodes/03-coffee/</link>
+      <description>Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.</description>
+      <content:encoded>&lt;p&gt;Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhouyeyu.com/hibi-podcast/en/episodes/03-coffee/transcript.txt"&gt;Transcript / 文字稿&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;0:00 — Step into the scene&lt;/li&gt;&lt;li&gt;0:22 — Listen to the whole conversation&lt;/li&gt;&lt;li&gt;0:48 — Understand the lines and their tone&lt;/li&gt;&lt;li&gt;1:36 — One useful pattern&lt;/li&gt;&lt;li&gt;2:37 — Change one detail&lt;/li&gt;&lt;li&gt;3:02 — Listen, pause, and repeat&lt;/li&gt;&lt;li&gt;3:51 — Your turn to answer&lt;/li&gt;&lt;li&gt;4:41 — Listen again and take it with you&lt;/li&gt;&lt;/ol&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 17:11:32 +0800</pubDate>
+      <enclosure url="https://zhouyeyu.com/hibi-podcast/media/en/03-coffee-8236bc170231c2c2.mp3" length="7148343" type="audio/mpeg" />
+      <itunes:duration>298</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Asking directions: where is the station?</title>
+      <guid isPermaLink="false">urn:uuid:a9c6223f-6b1b-528c-b7d4-ccbdc81cac17</guid>
+      <link>https://zhouyeyu.com/hibi-podcast/en/episodes/02-directions/</link>
+      <description>Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.</description>
+      <content:encoded>&lt;p&gt;Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhouyeyu.com/hibi-podcast/en/episodes/02-directions/transcript.txt"&gt;Transcript / 文字稿&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;0:00 — Step into the scene&lt;/li&gt;&lt;li&gt;0:19 — Listen to the whole conversation&lt;/li&gt;&lt;li&gt;0:50 — Understand the lines and their tone&lt;/li&gt;&lt;li&gt;2:00 — One useful pattern&lt;/li&gt;&lt;li&gt;2:59 — Change one detail&lt;/li&gt;&lt;li&gt;3:19 — Listen, pause, and repeat&lt;/li&gt;&lt;li&gt;4:16 — Your turn to answer&lt;/li&gt;&lt;li&gt;5:07 — Listen again and take it with you&lt;/li&gt;&lt;/ol&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 17:11:32 +0800</pubDate>
+      <enclosure url="https://zhouyeyu.com/hibi-podcast/media/en/02-directions-05ac2d7fca91477b.mp3" length="7786544" type="audio/mpeg" />
+      <itunes:duration>324</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>At the tea shop: asking for one, please</title>
+      <guid isPermaLink="false">urn:uuid:cf83bf01-f725-5b00-ae7f-7b199c24ecc1</guid>
+      <link>https://zhouyeyu.com/hibi-podcast/en/episodes/01-tea/</link>
+      <description>Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.</description>
+      <content:encoded>&lt;p&gt;Japanese dialogue with English explanations, substitutions, repeat gaps and an active response.&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhouyeyu.com/hibi-podcast/en/episodes/01-tea/transcript.txt"&gt;Transcript / 文字稿&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;0:00 — Step into the scene&lt;/li&gt;&lt;li&gt;0:24 — Listen to the whole conversation&lt;/li&gt;&lt;li&gt;0:52 — Understand the lines and their tone&lt;/li&gt;&lt;li&gt;1:57 — One useful pattern&lt;/li&gt;&lt;li&gt;2:50 — Change one detail&lt;/li&gt;&lt;li&gt;3:21 — Listen, pause, and repeat&lt;/li&gt;&lt;li&gt;4:20 — Your turn to answer&lt;/li&gt;&lt;li&gt;5:00 — Listen again and take it with you&lt;/li&gt;&lt;/ol&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 17:11:32 +0800</pubDate>
+      <enclosure url="https://zhouyeyu.com/hibi-podcast/media/en/01-tea-2045f680fc9bc5f5.mp3" length="7658095" type="audio/mpeg" />
+      <itunes:duration>319</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
