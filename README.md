@@ -2,7 +2,9 @@
 
 日语对话与中英文陪听播客的公开发布仓库。
 
-网站：https://zhouyeyu.github.io/hibi-podcast/
+网站：https://zhouyeyu.com/hibi-podcast/
+
+GitHub 默认地址会自动跳转到账号已有域名。
 
 ## 发布方式
 
