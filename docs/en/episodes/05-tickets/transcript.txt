@@ -1,4 +1,4 @@
-The bears have reached the station and are standing at a ticket machine. Before thinking about complicated ticket types, let us listen for two simple things: what they want to buy, and how many. Picture two friends traveling together, with each person needing a ticket. What number does the friend confirm?
+Welcome to Hibi, Japanese with Two Bears. Today, we buy tickets and listen for how the bears agree that they need two. Let us listen to their conversation.
 
 切符を二枚買おう。／うん、二枚だね。
 
@@ -50,4 +50,4 @@ The model answer asks for two tickets. The question before it asked how many tic
 
 切符
 
-Today’s word is ticket. Next time you practice, choose a real number of travelers and make your request match the journey you imagine.
+Take a clear way to ask for two tickets with you. Try using it in your own day. This is Hibi, Japanese with Two Bears. See you in the next everyday moment.

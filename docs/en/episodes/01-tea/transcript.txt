@@ -1,4 +1,4 @@
-You are at a small tea shop. Something on the counter looks good, and you want to buy it. How do you move from asking the price to making a simple request? Listen to our two bears. Your first listening goal is small: find out how many the scarf bear asks for.
+Welcome to Hibi, Japanese with Two Bears. Today, we visit a tea shop and listen for how to ask the price, then order one. Let us listen to their conversation.
 
 すみません、このお茶はいくらですか？／はい、千円です。／じゃあ、一つください。
 
@@ -56,4 +56,4 @@ The model answer asks for tea. Your voice does not need to match the recording e
 
 お茶
 
-Today’s word is tea. Take one useful request with you, and try changing the item next time you are at a counter.
+Take a polite request for one item with you. Try using it in your own day. This is Hibi, Japanese with Two Bears. See you in the next everyday moment.

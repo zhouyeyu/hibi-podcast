@@ -1,4 +1,4 @@
-You have been walking for a while, and you catch the smell of coffee. You might turn to a friend and say that you feel like having some. Our bears are having that kind of conversation. They are not ordering at the counter yet. Listen for the wish, then for the friend’s helpful response.
+Welcome to Hibi, Japanese with Two Bears. Today, we walk past a cafe and listen for how friends say what they feel like drinking. Let us listen to their conversation.
 
 コーヒー、飲みたいな。／あそこにカフェがあるよ。
 
@@ -50,4 +50,4 @@ The model answer chooses tea. Coffee or water would work too. Remember that this
 
 コーヒー
 
-Today’s word is coffee. Next time you take a break, try changing the drink and telling a friend what you feel like having.
+Take a natural way to say what you feel like drinking with you. Try using it in your own day. This is Hibi, Japanese with Two Bears. See you in the next everyday moment.
