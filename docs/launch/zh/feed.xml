@@ -5,7 +5,7 @@
     <link>https://zhouyeyu.com/hibi-podcast/zh/</link>
     <description>两只小熊的日语日常。中文讲解、自然对话，每集一个表达，配合跟读和回答练习。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:44:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:47:25 +0800</lastBuildDate>
     <generator>HIBI Daily Platform Feed</generator>
     <atom:link href="https://zhouyeyu.com/hibi-podcast/launch/zh/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>HIBI</itunes:author>
@@ -25,6 +25,19 @@
       <title>小熊日语日常 · 中文陪听</title>
       <link>https://zhouyeyu.com/hibi-podcast/zh/</link>
     </image>
+    <item>
+      <title>便利店挑饭团：把“要不选这个吧”说自然</title>
+      <guid isPermaLink="false">urn:uuid:00a5073d-5ed3-5d73-b603-e857306019c7</guid>
+      <link>https://zhouyeyu.com/hibi-podcast/zh/episodes/06-convenience/</link>
+      <description>日语对话＋中文讲解，围绕一个表达练习替换、跟读与回答。</description>
+      <content:encoded>&lt;p&gt;日语对话＋中文讲解，围绕一个表达练习替换、跟读与回答。&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhouyeyu.com/hibi-podcast/zh/episodes/06-convenience/transcript.txt"&gt;Transcript / 文字稿&lt;/a&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;0:00 — 进入便利店，带着问题听&lt;/li&gt;&lt;li&gt;0:16 — 先听完整对话&lt;/li&gt;&lt;li&gt;0:36 — 逐句听懂：两个人在商量什么&lt;/li&gt;&lt;li&gt;1:27 — 一个核心：表达自己的选择&lt;/li&gt;&lt;li&gt;2:22 — 把饭团换成茶和咖啡&lt;/li&gt;&lt;li&gt;3:09 — 分句跟读，留出自己说的时间&lt;/li&gt;&lt;li&gt;4:05 — 自己作一次选择&lt;/li&gt;&lt;li&gt;4:41 — 回到原对话，简短收尾&lt;/li&gt;&lt;/ol&gt;</content:encoded>
+      <pubDate>Tue, 27 Oct 2026 09:47:25 +0800</pubDate>
+      <enclosure url="https://zhouyeyu.com/hibi-podcast/media/zh/06-convenience-c5e9b6620ff25206.mp3" length="7397121" type="audio/mpeg" />
+      <itunes:duration>308</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>售票机前：两张车票怎么说</title>
       <guid isPermaLink="false">urn:uuid:9b065acf-d3cb-5038-871a-90aa4226fdf4</guid>
